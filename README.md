@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Rommie Link ~ RoomieLink is the platform designed to connect students looking for roommates, specifically tailored for those who study in the colleges/university. <br>👯 I’m looking to collaborate on Any Project : 0<br>🤝 I’m looking for help with DSA ;)<br>🌱 I’m currently learning React Js, Chinese,  and Back-End <br>💬 Ask me about Books <br>⚡ Fun fact I am become a Polyglot
+🔭 I’m currently working on Rommie Link ~ RoomieLink is the platform designed to connect students looking for roommates, specifically tailored for those who study in the colleges/university. <br>  <br> I’m looking to collaborate on Any Project : 0<br>🤝 I’m looking for help with DSA ;)<br>🌱 I’m currently learning React Js, Chinese,  and Back-End <br>💬 Ask me about Books <br>⚡ Fun fact I am become a Polyglot
 
 
 ## 🌐 Socials:
