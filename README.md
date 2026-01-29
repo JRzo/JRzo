@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on NestWise (Combine cutting-edge technology <br>With in-depth local knowledge to empower your real estate journey.)<br><br>👯 I’m looking to collaborate on ^ (NestWise)<br>🌱 I’m currently learning (Selenium for tests)<br>💬 Ask me about (Anything regarding Tech)<br>⚡ Fun fact (Learning German, thanks to @DuoLingo)
+🔭 I’m currently working on RAG LLM based on Real Estate Regulations & Laws (Combine cutting-edge technology<br>🌱 I’m currently learning (AI Tools)<br>💬 Ask me about (Anything regarding Tech)<br>⚡ Fun fact (Learning French, thanks to @DuoLingo)
 
 
 ## 🌐 Socials:
